@@ -2,6 +2,12 @@
 
 This project showcases a comprehensive Excel Dashboard built using sample Facebook Ads data. The dashboard presents crucial marketing KPIs and campaign performance insights for better ad strategy evaluation.
 
+---
+
+## Dashboard Image 
+
+![img](https://github.com/Rajkumar-dataanalyst/Media_Analysis-Project/blob/main/FB_EXCEL_SCREENSHOT.png?raw=true)
+
 ## 📌 Key Highlights
 
 - 🔷 **Total Ad Spend**: $22K  
@@ -52,9 +58,7 @@ All data cleaning and transformation processes were performed using **Power Quer
 - Aggregating metrics for visuals  
 - Creating calculated fields like CTR, Cost per Purchase, and ROAS
 
-## 🖼️ Dashboard Preview
 
-![img](https://github.com/Rajkumar-dataanalyst/Media_Analysis-Project/blob/main/FB_EXCEL_SCREENSHOT.png?raw=true)
 
 ---
 
