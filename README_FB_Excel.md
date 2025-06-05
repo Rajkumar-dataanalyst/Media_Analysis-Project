@@ -54,7 +54,7 @@ All data cleaning and transformation processes were performed using **Power Quer
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](af4b8cb7-b859-41c8-9635-33154155e137.png)
+![img](https://github.com/Rajkumar-dataanalyst/Media_Analysis-Project/blob/main/FB_EXCEL_SCREENSHOT.png?raw=true)
 
 ---
 
